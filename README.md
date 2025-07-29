@@ -1,4 +1,4 @@
-# 📰 Fake News Detection App | Machine Learning + Streamlit
+  # 📰 Fake News Detection App | Machine Learning + Streamlit
 
 An interactive Fake News Detection web app that classifies news headlines or articles as **Real** or **Fake** using machine learning — with a **dynamic UI built using Streamlit, enhanced with JavaScript & CSS animations**.
 
@@ -87,6 +87,6 @@ Dataset Source: [Fake and Real News Dataset - Kaggle](https://www.kaggle.com/clm
 - Add multilingual support (Hindi, Bengali, etc.)
 
 ### 👥 Credits
-👤 Rammani Pandey
+👤 Emmanuel Duodu
 💻 UI & ML support: ChatGPT
 📦 Dataset: Kaggle
